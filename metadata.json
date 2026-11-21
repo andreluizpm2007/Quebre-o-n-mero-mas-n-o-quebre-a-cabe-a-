@@ -1,0 +1,6 @@
+{
+  "name": "Quebre o número para não quebrar a cabeça",
+  "description": "Jogo educativo de matemática (6º ao 9º ano) para ensinar a divisão de números naturais pelo método da decomposição posicional com quebra-cabeça interativo, modo guiado, desafio cronometrado, conquistas, BNCC e SAEB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
